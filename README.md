@@ -2,6 +2,7 @@
 ## Overview
 This repository contains work in webscraping utilizing html and CSS
 ### Main Analysis
+^(includes part_1_mars_news.ipynb and part_2_mars_weather.ipynb)^
 #### News Article Web Scraping
 In this section of the analysis a webscraping was performed on the Mars NASA news site and its articles. The information extracted includes the titles and text summary of each article written into dictionary format for future use and saved to a json file. 
 #### Mars Weather Analysis
