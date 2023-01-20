@@ -1,6 +1,6 @@
 # Mission-to-Mars
 ## Overview
-This repository contains work in webscraping utilizing html and CSS on jupyter notebook
+This repository contains work in webscraping utilizing html and CSS on jupyter notebook.
 ### Main Analysis
 #### News Article Web Scraping <sub> (part_1_mars_news.ipynb)</sub> 
 In this section of the analysis a webscraping was performed on the Mars NASA news site and its articles. The information extracted includes the titles and text summary of each article written into dictionary format for future use and saved to a json file. 
